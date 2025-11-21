@@ -58,6 +58,17 @@ This matrix is applied on each position vector of mars, which is rotated an angl
 
   Since matlab can only deal with discrete data, derivativeis replaced by differential.
 
+## Logic Chain and Usage
+
+- `planet_data_generate.mlx` generates the data of planets, save them in `planet_data.mat`
+
+- `retrograde_calculate.mlx` simulates the entire process of the motion of Mars. 
+  With packaged function `retro_detect.m`, periods of retrograde are founded in the process.
+  The data calculated is saved in `calculated_data.mat`.
+
+- `stationary_plot.mlx` and `dynamic_plot.mlx` draw figures and videos of the motion, respectively.
+  Different views are provided.
+
 ## Co-authors
 (Sorted alphabetically by last name)
 
