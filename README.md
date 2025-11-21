@@ -58,24 +58,10 @@ This matrix is applied on each position vector of mars, which is rotated an angl
 
   Since matlab can only deal with discrete data, derivativeis replaced by differential.
 
-## Authors
+## Co-authors
 (Sorted alphabetically by last name)
 
-Y. H. Chen
-
-S. L. Li
-
-Y. H. Ren
-
-Y. H. Tang
-
-Z. M. Wang
-
-H. Y. Wang
-
-D. X. Zhang
-
-C. Y. Zhang
+Y. H. Chen, S. L. Li, Y. H. Ren, Y. H. Tang, Z. M. Wang, H. Y. Wang, D. X. Zhang, C. Y. Zhang
 
 School of Physics and Astronomy, Shanghai Jiao Tong University
 
