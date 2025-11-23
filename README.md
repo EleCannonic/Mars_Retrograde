@@ -1,4 +1,4 @@
-# PHYMR Mars Retrograde
+# Mars Retrograde Simulation
 
 This is a project to simulate Mars retrograde. Project identifier PHYMR
 
